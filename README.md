@@ -50,7 +50,7 @@ Usage
 
 Run the script using Python 3:
 
-    python progress_photo_organizer.py
+    python photouploader.py
 
 Make sure the source and destination directories exist and are accessible. The script will create any missing subfolders under the destination path automatically.
 
